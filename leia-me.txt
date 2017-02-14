@@ -1,4 +1,4 @@
-Neste reposótirio ficarão os arquivos de exemplos dado em aula.
+Neste reposótirio ficarão os arquivos de exemplos dados em aula.
 
 Turma: Poo Noite - 1 semestre 2017
 
